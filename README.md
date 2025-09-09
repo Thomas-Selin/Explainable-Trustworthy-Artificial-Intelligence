@@ -11,4 +11,4 @@ Notebook and data (images) are uploaded. Notebook also avaiable at Google Cobal 
 
 ### Lab 3: Feature Importance and Global Surrogates
 
-Notebook and model files are uploaded. Notebook also avaiable at Google Cobal here: https://drive.google.com/file/d/1NF_Ubzi-Xsc1rqKtXQCaVWxCQ02kgvUa/view?usp=sharing
+Notebook and model files are uploaded. Notebook also avaiable at Google Cobal here: http://colab.research.google.com/drive/1NF_Ubzi-Xsc1rqKtXQCaVWxCQ02kgvUa
