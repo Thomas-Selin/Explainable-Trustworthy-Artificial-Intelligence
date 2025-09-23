@@ -6,9 +6,9 @@ A repo to collect my earlier work in explainable and trustworthy artificial inte
 
 ### Lab 5: Explainability of neural networks/deep learning models
 
-Notebook and data (images) are uploaded. Notebook also avaiable at Google Cobal here: https://colab.research.google.com/drive/105QeMnuNxEfPIXnrUKEOHht1zRjyxggt?usp=sharing
+Notebook and data (images) are uploaded. Notebook also avaiable at Google Colab here: https://colab.research.google.com/drive/105QeMnuNxEfPIXnrUKEOHht1zRjyxggt?usp=sharing
 
 
 ### Lab 3: Feature Importance and Global Surrogates
 
-Notebook and model files are uploaded. Notebook also avaiable at Google Cobal here: http://colab.research.google.com/drive/1NF_Ubzi-Xsc1rqKtXQCaVWxCQ02kgvUa
+Notebook and model files are uploaded. Notebook is also avaiable at Google Colab here: http://colab.research.google.com/drive/1NF_Ubzi-Xsc1rqKtXQCaVWxCQ02kgvUa
