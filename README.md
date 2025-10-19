@@ -8,9 +8,9 @@ A repo to collect my earlier work in explainable and trustworthy artificial inte
 
 ### [Lab 5: Explainability of neural networks/deep learning models](Lab_5_Thomas_Selin.ipynb)
 
-Notebook and data (images) are uploaded.
+Notebook and data (images) have been uploaded.
 
 
 ### [Lab 3: Feature Importance and Global Surrogates](Lab_3_Thomas_Selin.ipynb)
 
-Notebook and model files are uploaded.
+Notebook and model files have been uploaded.
