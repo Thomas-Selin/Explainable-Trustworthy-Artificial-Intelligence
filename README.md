@@ -6,11 +6,11 @@ A repo to collect my earlier work in explainable and trustworthy artificial inte
 
 ## Explainable AI at Halmstad University 2025
 
-### Lab 5: Explainability of neural networks/deep learning models
+### [Lab 5: Explainability of neural networks/deep learning models](Lab_5_Thomas_Selin.ipynb)
 
 Notebook and data (images) are uploaded.
 
 
-### Lab 3: Feature Importance and Global Surrogates
+### [Lab 3: Feature Importance and Global Surrogates](Lab_3_Thomas_Selin.ipynb)
 
 Notebook and model files are uploaded.
