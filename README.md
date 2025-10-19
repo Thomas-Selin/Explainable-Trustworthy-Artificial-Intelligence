@@ -1,5 +1,7 @@
 # Selected work in XAI and Trustworthy AI
 
+## Author: Thomas Selin
+
 A repo to collect my earlier work in explainable and trustworthy artificial intelligence.
 
 ## Explainable AI at Halmstad University 2025
